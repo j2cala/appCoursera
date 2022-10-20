@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="square">100</dimen>
+    <dimen name="rectu">100</dimen>
+    <dimen name="rectd">130</dimen>
+    <dimen name="text">20</dimen>
+
+</resources>
